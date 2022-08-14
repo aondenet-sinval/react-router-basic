@@ -1,0 +1,14 @@
+div{
+	display: flex;
+}
+main{
+	padding: 1rem 0;
+}
+nav{
+border-right: solid 1px;
+padding: 1rem;
+}
+.links{
+	display: block; 
+	margin: 1rem 0;
+}
